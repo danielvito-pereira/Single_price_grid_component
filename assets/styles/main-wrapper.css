@@ -1,0 +1,12 @@
+.main-wrapper {
+  width: 100%;
+  height: 100vh;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+  width: min(50rem, 100%); /*ele vai pegar o menor valor segundo o menor valor no momento */
+  margin-inline:auto;
+  padding: 1rem;
+}

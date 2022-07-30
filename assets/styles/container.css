@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  padding:1rem;
+}
+
+.item_1{
+  background-color: var(--branco);
+  text-align: left;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+.item_2{
+  background-color: var(--Cyan);
+  color: white;
+  text-align: left;
+}
+
+.item_3{
+  background-color: var(--Cyan);
+  color: white;
+  text-align: left;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
