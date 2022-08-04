@@ -9,6 +9,6 @@
   width: min(50rem, 100%); /*ele vai pegar o menor valor segundo o menor valor no momento */
   margin-inline:auto;
   padding: 2rem;
-  margin-top: 1rem;
+  margin-top: 2rem;
   margin-bottom:5rem;
 }
