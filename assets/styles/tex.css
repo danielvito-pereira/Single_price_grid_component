@@ -23,10 +23,18 @@ h2 {
 .color {
   color: var(--Cyan)
 }
-.item_1 {
-  background-color:white;
-}
+
 .item_1 p{
   color: var(--GrayishBlue);
+}
+.item_2 p{
+  color: white;
+}
+.item_2 span{
+  color: var(--LightGray);
+}
+.valor{
+  color: white;
+  font-size: 2rem;
 }
 

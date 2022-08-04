@@ -1,0 +1,21 @@
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.6rem;
+  background-color: var(--BrightYellow);
+  border-radius: 0.5rem;
+  color: white;
+
+  padding:1rem 5.7rem;
+  width:fit-content;/*a largura dele fica limitada ao conteúdo  */
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+
+}
+
+.btn:hover{
+  background: #4EBFB4;
+  transition: background .2s;
+ }
