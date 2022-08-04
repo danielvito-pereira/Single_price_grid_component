@@ -8,5 +8,5 @@
   margin:auto;
   width: min(50rem, 100%); /*ele vai pegar o menor valor segundo o menor valor no momento */
   margin-inline:auto;
-  padding: 1rem;
+  padding: 2rem;
 }

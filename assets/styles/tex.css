@@ -17,4 +17,16 @@ h1{
 h2 {
   font-size:19px;
   color: var(--BrightYellow);
+  margin-bottom: 1rem;
 }
+
+.color {
+  color: var(--Cyan)
+}
+.item_1 {
+  background-color:white;
+}
+.item_1 p{
+  color: var(--GrayishBlue);
+}
+
